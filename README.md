@@ -4,7 +4,8 @@
 <a href="#" target="_blank">
   <img src="https://i.imgur.com/Nehlvdw.jpg" width="1000" height="" border-radius="50%" alt="duy" />
 </a>
-
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
