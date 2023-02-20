@@ -2,7 +2,7 @@
 - 👋 Hey, I’m NguyenKhanhDuy
 - 👀 I’m student
 <a href="#" target="_blank">
-  <img src="https://i.imgur.com/Nehlvdw.jpg" width="100" height="" alt="duy" />
+  <img src="https://i.imgur.com/Nehlvdw.jpg" width="1000" height="" alt="duy" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
