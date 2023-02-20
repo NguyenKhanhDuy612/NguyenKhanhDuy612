@@ -1,6 +1,6 @@
 
-- 👋 Hey, I’m NguyenKhanhDuy
-- 👀 I’m student
+ <h4 align="center">👋 Hey, I’m NguyenKhanhDuy </h4>
+ <h4 align="center"> 👀 I’m student </h4>
 <a href="#" target="_blank">
   <img src="https://i.imgur.com/Nehlvdw.jpg" width="1000" height="" alt="duy" />
 </a>
