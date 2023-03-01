@@ -1,9 +1,9 @@
 
  <h4 align="center">👋 Hey, I’m Nguyễn Khánh Duy </h4>
  <h4 align="center"> 👀 I’m student </h4>
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="https://i.imgur.com/Nehlvdw.jpg" width="1000" height="" border-radius="50%" alt="duy" />
-</a>
+</a> -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
